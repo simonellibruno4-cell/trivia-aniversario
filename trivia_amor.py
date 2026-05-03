@@ -199,6 +199,7 @@ elif st.session_state.pregunta == 12:
     st.markdown("<h3 style='color: #FF4B4B;'>Feliz mes amooor 2 años y 6 meses wooow❤️.</h3>", unsafe_allow_html=True)
     st.write("Sos todo para mi amor, gracias por todo lo que haces por mi y por todo mi amor.")
     st.write("Espero ser tu compañero de vida hasta que nos mueramos, y despues de muertos tambien jajaja.")
+    st.write("Como dice el tema, podria pasar la vida entera viendote, porque sos hermosa mi amoooor.")
     st.markdown("<p style='color: #FF4B4B; font-weight: bold;'>Te amo con todo mi corazon, sos lo mejor que me paso en la vida, y espero que podamos seguir creando recuerdos hermosos juntos por muchos años mas❤️♾️.</p>", unsafe_allow_html=True)
 
     if st.button("Reiniciar"):
